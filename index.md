@@ -2,11 +2,11 @@
 layout: default
 ---
 
-***NOTICE***: The FOSDEM'27 dates [have been announced](https://fosdem.org/2027/news/2026-08-30-fosdem-2027-dates/) (30 & 31 January 2027), but the Call for Participation has not been, and of course then Devrooms have not yet been selected. This site is a placeholder for the Open Hardware Devroom submission so that it's ready to go in the event that this Devroom is selected for inclusion in the FOSDEM'27 program.
+***NOTICE***: The [FOSDEM'27](https://fosdem.org/2027/) dates [have been announced](https://fosdem.org/2027/news/2026-08-30-fosdem-2027-dates/) (30 & 31 January 2027), but the Call for Participation has not been, and of course then Devrooms have not yet been selected. This site is a placeholder for the Open Hardware Devroom submission so that it's ready to go in the event that this Devroom is selected for inclusion in the FOSDEM'27 program.
 
 ---
 
-The Open Hardware and CAD/CAM "devroom" at FOSDEM 2027 is an opportunity for developers of Open Hardware projects and related software tools to gather and share their work, meet developers from other projects, network, and learn from one another.The 2027 devroom is once again being coordinated by Chris Hennes (@chennes, chennes@freecad.org) and Jo Hinchliffe (@concretedog, jo@concretedog.xyz). We carry on the tradition developed over the many years of this DevRoom's existence of a dynamic, interactive room full of interesting presentations and projects.
+The Open Hardware and CAD/CAM "devroom" at [FOSDEM 2027](https://fosdem.org/2027/) is an opportunity for developers of Open Hardware projects and related software tools to gather and share their work, meet developers from other projects, network, and learn from one another.The 2027 devroom is once again being coordinated by Chris Hennes (@chennes, chennes@freecad.org) and Jo Hinchliffe (@concretedog, jo@concretedog.xyz). We carry on the tradition developed over the many years of this DevRoom's existence of a dynamic, interactive room full of interesting presentations and projects.
 
 # Call for Participation
 
