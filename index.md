@@ -44,14 +44,9 @@ Topics of interest include, but are not limited to:
      * Version control in hardware data storage
      * Collaborative and team-based hardware design techniques
 
-Slots will be allocated for short (20 minutes) and long (40 minutes) 
-talks.
-
-Speakers need to specify their preferred format. Both include time for 
-questions and answers.
-
-Depending on the number of submissions, submitters may be asked to 
-utilize an alternate time format.
+Talk slots will be 40 minutes **total**, inclusive of time for questions. Presenters are
+encouraged to plan to speak for about 30 minutes, to ensure enough time for what is often
+a very lively Q&A segment.
 
 ## Important Dates
 
