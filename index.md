@@ -2,7 +2,7 @@
 layout: default
 ---
 
-***NOTICE***: The FOSDEM'27 dates have not yet been announced, and Devrooms have not yet been selected. This site is a placeholder for the Open Hardware Devroom submission so that it's ready to go in the event that this Devroom is selected for inclusion in the FOSDEM'27 program.
+***NOTICE***: The FOSDEM'27 dates [have been announced](https://fosdem.org/2027/news/2026-08-30-fosdem-2027-dates/) (30 & 31 January 2027), but the Call for Participation has not been, and of course then Devrooms have not yet been selected. This site is a placeholder for the Open Hardware Devroom submission so that it's ready to go in the event that this Devroom is selected for inclusion in the FOSDEM'27 program.
 
 ---
 
@@ -10,7 +10,7 @@ The Open Hardware and CAD/CAM "devroom" at FOSDEM 2027 is an opportunity for dev
 
 # Call for Participation
 
-We are pleased to announce the CfP for the Open Hardware and CAD/CAM devroom at FOSDEM 2027, (DATES TBA) 2027 in Brussels, Belgium.
+We are pleased to announce the CfP for the Open Hardware and CAD/CAM devroom at FOSDEM 2027, 30 & 31 January 2027 in Brussels, Belgium.
 
 The devroom will take place on (DATS TBA but probably Sunday) at [ULB (Campus Solbosch)](https://www.openstreetmap.org/node/1632534522).
 
@@ -58,7 +58,7 @@ utilize an alternate time format.
 * Submission deadline: 4 December 2026
 * Acceptance notifications: 11 December 2026
 * Final schedule announcement: 14 December 2026
-* Devroom: (DATE TBA)
+* Devroom: (DATE TBA -- historical precedent suggests Sunday 31 January, 2027)
 
 ## The submission process
 
