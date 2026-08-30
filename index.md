@@ -62,7 +62,7 @@ utilize an alternate time format.
 
 ## The submission process
 
-Please submit your proposal at the [FOSDEM pretalx site](https://pretalx.fosdem.org/fosdem-2026/cfp) before 4 Dec 2026.
+Please submit your proposal at the [FOSDEM pretalx site](https://pretalx.fosdem.org/fosdem-2027/cfp) (**NOTE:** *Not live yet, please stand by…*) before 4 Dec 2026.
 
 Select the "Open Hardware and CAD/CAM" session. Please note that the "Open Source Design" track, while a lovely group of wonderful hackers, is not the same. 
 
@@ -89,7 +89,7 @@ be very happy to have your assistance!
 
 ## Recordings
 
-The talks will be recorded and live-streamed during FOSDEM26. The recordings will be published under the same licence as all FOSDEM content (CC-BY). Only presentations and Q&A will be recorded, not informal discussions and whatever happens during breaks between presentations.  We require affirmative consent to this license.  Please include the following statement in your submission notes:
+The talks will be recorded and live-streamed during FOSDEM'27. The recordings will be published under the same licence as all FOSDEM content (CC-BY-4.0). Only presentations and Q&A will be recorded, not informal discussions and whatever happens during breaks between presentations.  We require affirmative consent to this license.  Please include the following statement in your submission notes:
 
 ```
 If my presentation is accepted for FOSDEM, I hereby agree to license all 
