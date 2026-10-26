@@ -2,19 +2,15 @@
 layout: default
 ---
 
-***NOTICE***: The [FOSDEM'27](https://fosdem.org/2027/) dates [have been announced](https://fosdem.org/2027/news/2026-08-30-fosdem-2027-dates/) (30 & 31 January 2027), but the Call for Participation has not been, and of course then Devrooms have not yet been selected. This site is a placeholder for the Open Hardware Devroom submission so that it's ready to go in the event that this Devroom is selected for inclusion in the FOSDEM'27 program.
-
----
-
 The Open Hardware and CAD/CAM "devroom" at [FOSDEM 2027](https://fosdem.org/2027/) is an opportunity for developers of Open Hardware projects and related software tools to gather and share their work, meet developers from other projects, network, and learn from one another.The 2027 devroom is once again being coordinated by Chris Hennes (@chennes, chennes@freecad.org) and Jo Hinchliffe (@concretedog, jo@concretedog.xyz). We carry on the tradition developed over the many years of this DevRoom's existence of a dynamic, interactive room full of interesting presentations and projects.
 
 # Call for Participation
 
 We are pleased to announce the CfP for the Open Hardware and CAD/CAM devroom at FOSDEM 2027, 30 & 31 January 2027 in Brussels, Belgium.
 
-The devroom will take place on (DATE TBA but probably Sunday, 31 January 2027) at [ULB (Campus Solbosch)](https://www.openstreetmap.org/node/1632534522).
+The devroom will take place on Sunday morning, 31 January 2027 at [ULB (Campus Solbosch)](https://www.openstreetmap.org/node/1632534522).
 
-We hope you'll join us for a full day of talks, demos and interesting discussions on designing, modeling and testing hardware using Open Source tools.
+We hope you'll join us for a half day of talks, demos and interesting discussions on designing, modeling and testing hardware using Open Source tools.
 
 We welcome any talk proposals about the design and creation of physical objects.
 
@@ -53,11 +49,11 @@ a very lively Q&A segment.
 * Submission deadline: 4 December 2026
 * Acceptance notifications: 11 December 2026
 * Final schedule announcement: 14 December 2026
-* Devroom: (DATE TBA -- historical precedent suggests Sunday 31 January, 2027)
+* Devroom: Sunday 31 January, 2027
 
 ## The submission process
 
-Please submit your proposal at the [FOSDEM pretalx site](https://pretalx.fosdem.org/fosdem-2027/cfp) (**NOTE:** *Not live yet, please stand by…*) before 4 Dec 2026.
+Please submit your proposal at the [FOSDEM pretalx site](https://pretalx.fosdem.org/fosdem-2027/cfp) before 4 Dec 2026.
 
 Select the "Open Hardware and CAD/CAM" session. Please note that the "Open Source Design" track, while a lovely group of wonderful hackers, is not the same. 
 
