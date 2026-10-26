@@ -40,9 +40,10 @@ Topics of interest include, but are not limited to:
      * Version control in hardware data storage
      * Collaborative and team-based hardware design techniques
 
-Talk slots will be 40 minutes **total**, inclusive of time for questions. Presenters are
-encouraged to plan to speak for about 30 minutes, to ensure enough time for what is often
-a very lively Q&A segment.
+Talk slots will be 20 minutes **total**, inclusive of time for questions. Presenters are
+encouraged to plan to speak for about 15 minutes, to ensure enough time for what is often
+a very lively Q&A segment. Note that this is shorter than previous years, since the 2027
+edition is only a half day: talk fast!
 
 ## Important Dates
 
@@ -60,11 +61,10 @@ Select the "Open Hardware and CAD/CAM" session. Please note that the "Open Sourc
 Please include the following information with your submission:
 
 - Abstract
-- Preferred Session length
 - Speaker bio
 - Link to any hardware / code /slides for the talk
 
-Fill in at least a title and abstract for the proposed talk and a suggested duration.
+Fill in at least a title and abstract for the proposed talk.
 
 Keep in mind that much of the value in these meetings comes from the discussions, so please allot at least 20% of the talk time for questions and answers.
 
