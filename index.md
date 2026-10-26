@@ -8,7 +8,7 @@ The Open Hardware and CAD/CAM "devroom" at [FOSDEM 2027](https://fosdem.org/2027
 
 We are pleased to announce the CfP for the Open Hardware and CAD/CAM devroom at FOSDEM 2027, 30 & 31 January 2027 in Brussels, Belgium.
 
-The devroom will take place on Sunday morning, 31 January 2027 at [ULB (Campus Solbosch)](https://www.openstreetmap.org/node/1632534522).
+The devroom will take place on Sunday 09:00–13:00, 31 January 2027 at [ULB (Campus Solbosch)](https://www.openstreetmap.org/node/1632534522).
 
 We hope you'll join us for a half day of talks, demos and interesting discussions on designing, modeling and testing hardware using Open Source tools.
 
